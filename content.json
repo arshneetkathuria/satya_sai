@@ -35,7 +35,7 @@
     {
       "zone_id": "zone2",
       "zone_name": "Setting of Stage",
-      "zone_image": "",
+      "zone_image": "assets/images/exhibits/2.png",
       "zones": [
         {
           "exhibit_id": "1",
@@ -67,7 +67,7 @@
     {
       "zone_id": "zone3",
       "zone_name": "The Advent",
-      "zone_image": "",
+      "zone_image": "assets/images/exhibits/3.png",
       "zones": [
         {
           "exhibit_id": "1",
@@ -99,7 +99,7 @@
     {
       "zone_id": "zone4",
       "zone_name": "Sathya to Sai",
-      "zone_image": "",
+      "zone_image": "assets/images/exhibits/4.png",
       "zones": [
         {
           "exhibit_id": "1",
@@ -131,7 +131,7 @@
     {
       "zone_id": "zone5",
       "zone_name": "Setting of Stage",
-      "zone_image": "",
+      "zone_image": "assets/images/exhibits/5.png",
       "zones": [
         {
           "exhibit_id": "1",
@@ -163,7 +163,7 @@
     {
       "zone_id": "zone6",
       "zone_name": "Setting of Stage",
-      "zone_image": "",
+      "zone_image": "assets/images/exhibits/6.png",
       "zones": [
         {
           "exhibit_id": "1",
