@@ -225,8 +225,9 @@
   ],
   "hi": [
     {
-      "zone_id": "",
-      "zone_image": "",
+      "zone_id": "zone1",
+      "zone_name": "दिव्य अवतार",
+      "zone_image": "assets/images/exhibits/1.png",
       "zones": [
         {
           "exhibit_id": "1",
@@ -238,37 +239,38 @@
           "exhibit_id": "2",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
+          "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
           "exhibit_id": "3",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
+          "exhibit_image": "assets/images/exhibits/3.png"
         },
         {
           "exhibit_id": "4",
           "audio": "audio/4.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
+          "exhibit_image": "assets/images/exhibits/4.png"
         },
         {
           "exhibit_id": "5",
           "audio": "audio/5.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
+          "exhibit_image": "assets/images/exhibits/5.png"
         }
       ]
     },
     {
-      "zone_id": "",
-      "zone_image": "",
+      "zone_id": "zone2",
+      "zone_name": "स्टेज की स्थापना",
+      "zone_image": "assets/images/exhibits/2.png",
       "zones": [
         {
           "exhibit_id": "1",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
+          "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
           "exhibit_id": "2",
@@ -280,19 +282,615 @@
           "exhibit_id": "3",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone3",
+      "zone_name": "आगमन",
+      "zone_image": "assets/images/exhibits/3.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
         },
         {
           "exhibit_id": "4",
           "audio": "audio/4.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
+          "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
           "exhibit_id": "5",
           "audio": "audio/5.mp3",
           "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone4",
+      "zone_name": "Sathya to Sai",
+      "zone_image": "assets/images/exhibits/4.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone5",
+      "zone_name": "स्टेज की स्थापना",
+      "zone_image": "assets/images/exhibits/5.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone6",
+      "zone_name": "Setting of Stage",
+      "zone_image": "assets/images/exhibits/6.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        }
+      ]
+    }
+  ],
+  "mr": [
+    {
+      "zone_id": "zone1",
+      "zone_name": "दैवी अवतार",
+      "zone_image": "assets/images/exhibits/1.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone2",
+      "zone_name": "स्टेजची स्थापना",
+      "zone_image": "assets/images/exhibits/2.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone3",
+      "zone_name": "आगमन",
+      "zone_image": "assets/images/exhibits/3.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone4",
+      "zone_name": "सत्य आहे साई",
+      "zone_image": "assets/images/exhibits/4.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone5",
+      "zone_name": "स्टेजची स्थापना",
+      "zone_image": "assets/images/exhibits/5.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone6",
+      "zone_name": "स्टेजची स्थापन",
+      "zone_image": "assets/images/exhibits/6.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        }
+      ]
+    }
+  ],
+  "te": [
+    {
+      "zone_id": "zone1",
+      "zone_name": "దివ్య అవతారం",
+      "zone_image": "assets/images/exhibits/1.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone2",
+      "zone_name": "స్టేజ్ సెట్టింగ్",
+      "zone_image": "assets/images/exhibits/2.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone3",
+      "zone_name": "ది అడ్వెంట్",
+      "zone_image": "assets/images/exhibits/3.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone4",
+      "zone_name": "సత్యం సాయి",
+      "zone_image": "assets/images/exhibits/4.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone5",
+      "zone_name": "స్టేజ్ సెట్టింగ్",
+      "zone_image": "assets/images/exhibits/5.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/6.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
+        }
+      ]
+    },
+    {
+      "zone_id": "zone6",
+      "zone_name": "స్టేజ్ సెట్టింగ్",
+      "zone_image": "assets/images/exhibits/6.png",
+      "zones": [
+        {
+          "exhibit_id": "1",
+          "audio": "audio/1.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/1.png"
+        },
+        {
+          "exhibit_id": "2",
+          "audio": "audio/2.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/2.png"
+        },
+        {
+          "exhibit_id": "3",
+          "audio": "audio/3.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/3.png"
+        },
+        {
+          "exhibit_id": "4",
+          "audio": "audio/4.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/5.png"
+        },
+        {
+          "exhibit_id": "5",
+          "audio": "audio/5.mp3",
+          "ip": "192.168.1.2",
+          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     }
