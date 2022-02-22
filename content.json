@@ -175,13 +175,13 @@
           "exhibit_id": "4",
           "audio": "audio/4.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/6png"
+          "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
           "exhibit_id": "5",
           "audio": "audio/5.mp3",
           "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4png"
+          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     },
