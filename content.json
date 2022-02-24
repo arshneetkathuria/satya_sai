@@ -22,18 +22,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
         }
       ]
     },
@@ -53,24 +41,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -84,30 +54,6 @@
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "2",
-          "audio": "audio/2.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -133,18 +79,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -164,24 +98,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/6.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     },
@@ -207,18 +123,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     }
@@ -246,18 +150,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
         }
       ]
     },
@@ -277,24 +169,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -308,30 +182,6 @@
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "2",
-          "audio": "audio/2.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -357,18 +207,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -388,24 +226,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/6.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     },
@@ -431,18 +251,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     }
@@ -470,18 +278,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
         }
       ]
     },
@@ -501,24 +297,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -532,30 +310,6 @@
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "2",
-          "audio": "audio/2.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -581,18 +335,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -612,24 +354,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/6.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     },
@@ -655,18 +379,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     }
@@ -694,18 +406,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
         }
       ]
     },
@@ -725,24 +425,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -756,30 +438,6 @@
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
-        },
-        {
-          "exhibit_id": "2",
-          "audio": "audio/2.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/2.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -805,18 +463,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
         }
       ]
     },
@@ -836,24 +482,6 @@
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
-        },
-        {
-          "exhibit_id": "3",
-          "audio": "audio/3.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/6.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     },
@@ -879,18 +507,6 @@
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
-        },
-        {
-          "exhibit_id": "4",
-          "audio": "audio/4.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/5.png"
-        },
-        {
-          "exhibit_id": "5",
-          "audio": "audio/5.mp3",
-          "ip": "192.168.1.2",
-          "exhibit_image": "assets/images/exhibits/4.png"
         }
       ]
     }
