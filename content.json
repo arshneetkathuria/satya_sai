@@ -31,13 +31,13 @@
       "zone_image": "assets/images/exhibits/2.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "4",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "5",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -50,7 +50,7 @@
       "zone_image": "assets/images/exhibits/3.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "6",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
@@ -63,19 +63,19 @@
       "zone_image": "assets/images/exhibits/4.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "7",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "8",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "9",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -88,13 +88,13 @@
       "zone_image": "assets/images/exhibits/5.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "10",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "11",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -107,19 +107,19 @@
       "zone_image": "assets/images/exhibits/6.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "12",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "13",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "14",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
@@ -159,13 +159,13 @@
       "zone_image": "assets/images/exhibits/2.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "4",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "5",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -178,7 +178,7 @@
       "zone_image": "assets/images/exhibits/3.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "6",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
@@ -191,19 +191,19 @@
       "zone_image": "assets/images/exhibits/4.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "7",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "8",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "9",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -216,13 +216,13 @@
       "zone_image": "assets/images/exhibits/5.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "10",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "11",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -235,19 +235,19 @@
       "zone_image": "assets/images/exhibits/6.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "12",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "13",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "14",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
@@ -287,13 +287,13 @@
       "zone_image": "assets/images/exhibits/2.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "4",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "5",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -306,7 +306,7 @@
       "zone_image": "assets/images/exhibits/3.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "6",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
@@ -319,19 +319,19 @@
       "zone_image": "assets/images/exhibits/4.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "7",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "8",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "9",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -344,13 +344,13 @@
       "zone_image": "assets/images/exhibits/5.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "10",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "11",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -363,19 +363,19 @@
       "zone_image": "assets/images/exhibits/6.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "12",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "13",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "14",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
@@ -415,13 +415,13 @@
       "zone_image": "assets/images/exhibits/2.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "4",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "5",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -434,7 +434,7 @@
       "zone_image": "assets/images/exhibits/3.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "6",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/4.png"
@@ -447,19 +447,19 @@
       "zone_image": "assets/images/exhibits/4.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "7",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/6.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "8",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "9",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -472,13 +472,13 @@
       "zone_image": "assets/images/exhibits/5.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "10",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "11",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
@@ -491,19 +491,19 @@
       "zone_image": "assets/images/exhibits/6.png",
       "zones": [
         {
-          "exhibit_id": "1",
+          "exhibit_id": "12",
           "audio": "audio/1.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/1.png"
         },
         {
-          "exhibit_id": "2",
+          "exhibit_id": "13",
           "audio": "audio/2.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/2.png"
         },
         {
-          "exhibit_id": "3",
+          "exhibit_id": "14",
           "audio": "audio/3.mp3",
           "ip": "192.168.1.2",
           "exhibit_image": "assets/images/exhibits/3.png"
