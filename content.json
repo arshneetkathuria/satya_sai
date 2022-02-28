@@ -318,7 +318,7 @@
 		{
 			"zone_id": "zone3",
 			"zone_name": "आगमन",
-			"zone_image": "https://raw.githubusercontent.com/arshneetkathuria/satya_sai/main/3.png",
+			"zone_image": "https://github.com/arshneetkathuria/satya_sai/blob/main/4.png?raw=true",
 			"zones": [{
 				"exhibit_id": "6",
 				"audio": "audio/1.mp3",
