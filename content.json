@@ -163,7 +163,7 @@
 		{
 			"zone_id": "zone2",
 			"zone_name": "स्टेज की स्थापना",
-			"zone_image": "https://raw.githubusercontent.com/arshneetkathuria/satya_sai/main/4.png",
+			"zone_image": "https://github.com/arshneetkathuria/satya_sai/blob/main/2.png?raw=true",
 			"zones": [{
 					"exhibit_id": "4",
 					"audio": "audio/1.mp3",
